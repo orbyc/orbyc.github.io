@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.57e8ea6a.css",
-    "main.js": "/static/js/main.27aa21f6.js",
+    "main.js": "/static/js/main.196dab3e.js",
     "static/js/787.53607b3e.chunk.js": "/static/js/787.53607b3e.chunk.js",
     "static/media/map.gif": "/static/media/map.cfbe7390433bc92ef9de.gif",
     "static/media/qr-logo.png": "/static/media/qr-logo.e735ac308759334f8908.png",
@@ -9,11 +9,11 @@
     "static/media/asset_back.jpeg": "/static/media/asset_back.28eb41ab9e47efaf2bc5.jpeg",
     "index.html": "/index.html",
     "main.57e8ea6a.css.map": "/static/css/main.57e8ea6a.css.map",
-    "main.27aa21f6.js.map": "/static/js/main.27aa21f6.js.map",
+    "main.196dab3e.js.map": "/static/js/main.196dab3e.js.map",
     "787.53607b3e.chunk.js.map": "/static/js/787.53607b3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57e8ea6a.css",
-    "static/js/main.27aa21f6.js"
+    "static/js/main.196dab3e.js"
   ]
 }
