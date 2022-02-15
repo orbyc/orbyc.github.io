@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.57e8ea6a.css",
-    "main.js": "/static/js/main.f292b02b.js",
+    "main.js": "/static/js/main.c3d03c1d.js",
     "static/js/787.53607b3e.chunk.js": "/static/js/787.53607b3e.chunk.js",
-    "static/media/map_updated.png": "/static/media/map_updated.b09d5847f5d76d72d5c4.png",
     "static/media/cotton-flowers-min.jpg": "/static/media/cotton-flowers-min.5a5a44b6f2ffce1c02c1.jpg",
+    "static/media/map_updated.png": "/static/media/map_updated.40ec201986eea8cacbf1.png",
     "static/media/qr-logo.png": "/static/media/qr-logo.e735ac308759334f8908.png",
     "static/media/fabric1.jpg": "/static/media/fabric1.3d62ef0074a4f55b93f8.jpg",
     "static/media/fabricbg.jpeg": "/static/media/fabricbg.7ae8bef6b0f08f8093b9.jpeg",
@@ -13,11 +13,11 @@
     "static/media/cotton2.jpeg": "/static/media/cotton2.c381d534eded9a6b3fe0.jpeg",
     "index.html": "/index.html",
     "main.57e8ea6a.css.map": "/static/css/main.57e8ea6a.css.map",
-    "main.f292b02b.js.map": "/static/js/main.f292b02b.js.map",
+    "main.c3d03c1d.js.map": "/static/js/main.c3d03c1d.js.map",
     "787.53607b3e.chunk.js.map": "/static/js/787.53607b3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57e8ea6a.css",
-    "static/js/main.f292b02b.js"
+    "static/js/main.c3d03c1d.js"
   ]
 }
