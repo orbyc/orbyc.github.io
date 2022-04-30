@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/dapp/static/css/main.073c9b0a.css",
-    "main.js": "/dapp/static/js/main.91963e75.js",
-    "static/js/787.4289fcb6.chunk.js": "/dapp/static/js/787.4289fcb6.chunk.js",
-    "static/media/logo.svg": "/dapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/dapp/index.html",
-    "main.073c9b0a.css.map": "/dapp/static/css/main.073c9b0a.css.map",
-    "main.91963e75.js.map": "/dapp/static/js/main.91963e75.js.map",
-    "787.4289fcb6.chunk.js.map": "/dapp/static/js/787.4289fcb6.chunk.js.map"
+    "main.css": "/static/css/main.57e8ea6a.css",
+    "main.js": "/static/js/main.edc217fa.js",
+    "static/js/787.53607b3e.chunk.js": "/static/js/787.53607b3e.chunk.js",
+    "static/media/cotton-flowers-min.jpg": "/static/media/cotton-flowers-min.5a5a44b6f2ffce1c02c1.jpg",
+    "static/media/map_updated.png": "/static/media/map_updated.40ec201986eea8cacbf1.png",
+    "static/media/fabricbg.jpeg": "/static/media/fabricbg.29a087f15515ea673413.jpeg",
+    "static/media/qr-logo.png": "/static/media/qr-logo.e735ac308759334f8908.png",
+    "static/media/fabric1.jpg": "/static/media/fabric1.3d62ef0074a4f55b93f8.jpg",
+    "static/media/Cotton1.jpg": "/static/media/Cotton1.d824147f052470a4c2d5.jpg",
+    "static/media/fabric2.jpeg": "/static/media/fabric2.9ef77f362a54e2d505ec.jpeg",
+    "static/media/cotton2.jpeg": "/static/media/cotton2.c381d534eded9a6b3fe0.jpeg",
+    "index.html": "/index.html",
+    "main.57e8ea6a.css.map": "/static/css/main.57e8ea6a.css.map",
+    "main.edc217fa.js.map": "/static/js/main.edc217fa.js.map",
+    "787.53607b3e.chunk.js.map": "/static/js/787.53607b3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.91963e75.js"
+    "static/css/main.57e8ea6a.css",
+    "static/js/main.edc217fa.js"
   ]
 }
